@@ -35,6 +35,7 @@ The Electronics can now be placed on top of the bottom-body piece and the side p
 
 The toggle switch should be mounted through the hole on the top-body piece. It can then be placed on top and should remain unglued so that it can be removed to access the electronics.
 ![WaddleBot](WaddleBot-Pictures/Back.jpeg)
+![WaddleBot](WaddleBot-Pictures/Inside.jpeg)
 ![WaddleBot](WaddleBot-Pictures/Top.jpeg)
 
 **Step 4: Code**
