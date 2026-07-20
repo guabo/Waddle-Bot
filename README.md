@@ -28,7 +28,7 @@ Before attaching the legs, make sure the servos are in their center position. Th
 
 Glue the legs to the feet and the bottom-body piece as shown. The servos should be roughly centered on the feet. The Servos being attached to the bottom-body piece should be evenly spaced apart and placed slightly towards the front of the robot.
 
-The Electronics can now be placed on top of the bottom-body piece and the side panels can be glued in place. DO NOT glue the top-body piece. It is important to place the Arduino so that its connection port is facing the opening on the back.
+The Electronics can now be placed on top of the bottom-body piece and the side panels can be glued in place. **DO NOT** glue the top-body piece. It is important to place the Arduino so that its connection port is facing the opening on the back.
 
 The toggle switch should be mounted through the hole on the top-body piece. It can then be placed on top and should remain unglued so that it can be removed to access the electronics.
 
