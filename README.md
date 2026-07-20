@@ -1,7 +1,7 @@
 # WaddleBot
 How to build a WaddleBot  
 ---
-
+![WaddleBot](WaddleBot-Pictures/Front.jpeg)
 **Materials Needed**
 
 * Frame (see WaddleBot-Body.svg)  
