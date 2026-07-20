@@ -19,6 +19,7 @@ How to build a WaddleBot
 **Step 1: Electronics**
 
 Wire your electronics as shown in the wiring diagram. When wiring the servos, make sure to pass the wires through the back plate of the frame.
+
 ![WaddleBot](WaddleBot-Pictures/WaddleBot-Wiring.png)
 
 **Step 2: Legs**
