@@ -73,7 +73,7 @@ enum GaitState {
 GaitState state = SHIFT_RIGHT;
 
 // servo resting positions:
-int LT = 100, RT = 90, LF = 110, RF = 40;
+int LT = 90, RT = 90, LF = 90, RF = 90;
 
 void doGaitStep() {
   if (!allServosIdle()) return;
