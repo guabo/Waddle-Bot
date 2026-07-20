@@ -41,3 +41,4 @@ Upload the code (Waddlebot-Code.ino) and watch the WaddleBot Waddle\!
 
 *Note: When the WaddleBot gets turned on, It first sets the legs to their starting position before beginning to walk. You will likely need to adjust the starting positions in the code (int LT \= 90, RT \= 90, LF \= 90, RF \= 90;)*
 
+![WaddleBot](WaddleBot-Pictures/WaddleBot-Moving.gif)
